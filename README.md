@@ -54,12 +54,12 @@ The dashboards are connected to a SQL database, allowing dynamic updates when ne
 **Visuals:**
 - 📈 *Line Chart*: Monthly Revenue vs Gender
 - 📊 *Bar Charts*:
-  - Age Group Distribution (M vs F)
+  - Age Group Distribution (Male vs Female)
   - Top 5 States
-  - Salary Group (M vs F)
-  - Marital Status (M vs F)
+  - Salary Group (Male vs Female)
+  - Marital Status (Male vs Female)
   - Dependent Count
-  - Educational Level (M vs F)
+  - Educational Level (Male vs Female)
 - 📋 *Table*: Customer Job-wise Revenue, Transaction Amount, Income
 - 🔢 *Cards*:
   - Total Revenue
